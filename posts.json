@@ -1,0 +1,23 @@
+[
+  {
+    "id": "123",
+    "user": "João",
+    "topic": "Campinas SP",
+    "rating": 1,          
+    "content": "Eu gostei do passei por campinas"
+  },
+  {
+    "id": "124",
+    "user": "José",
+    "topic": "Campinas SP",
+    "rating": 0,          
+    "content": "Eu não gostei"
+  },
+  {
+    "id": "124",
+    "user": "Maria",
+    "topic": "Campinas SP",
+    "rating": 1,          
+    "content": "Adorei conhecer o bosque de Campinas. Ele fica perto do centro da cidade."
+  }
+]
